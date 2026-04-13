@@ -24,7 +24,7 @@ The system allows users to set, verify, and change a password to control door ac
 -  System lock after 3 failed attempts
 
 
-##Communication:
+## Communication:
 - UART (MCU ↔ MCU)
 - I2C (EEPROM)
 
@@ -40,8 +40,6 @@ The system allows users to set, verify, and change a password to control door ac
 - Buzzer
 
 
-
----
 
 ## How It Works
 1. User sets a password
@@ -69,5 +67,5 @@ The system allows users to set, verify, and change a password to control door ac
 
 
 
-🎥 Demo
-(Proteus Simulation)()
+## Demo
+[Proteus Simulation](https://drive.google.com/file/d/1OgTgJOjIU6jK3GR51RRVD_WEoPtjxL8e/view?usp=sharing)
